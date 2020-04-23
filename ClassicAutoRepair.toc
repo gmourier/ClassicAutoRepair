@@ -1,0 +1,6 @@
+## Interface: 11304
+## Title: ClassicAutoRepair
+## Author: Guillaume Mourier (Furvent@Finkle EU/fr)
+## Version: 1.0
+
+ClassicAutoRepair.lua
